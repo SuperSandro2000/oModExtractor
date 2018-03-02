@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "oMod Extractor", "src\oMod Extractor.pyproj", "{A669F776-40D8-4E47-8DF9-50FAFC1FF45A}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "oModExtractor", "src\oModExtractor.pyproj", "{A669F776-40D8-4E47-8DF9-50FAFC1FF45A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
